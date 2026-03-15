@@ -1,6 +1,6 @@
 # AssetGenerator
 
-AssetGenerator is a machine learning project focused on generating **64x64 top-down pixel art assets** in a **GBA-era monster-collector RPG style** for use in a 2D game environment.
+AssetGenerator is a machine learning project focused on generating **32x32 and 16x16 top-down pixel art assets** in a **GBA-era monster-collector RPG style** for use in a 2D game environment.
 
 The long-term goal of this project is to train a custom model capable of producing consistent overworld assets such as props, terrain elements, vegetation, structures, and other environment art that fit a unified visual style.
 
