@@ -33,3 +33,4 @@ If you are interested in this project or would like to discuss any use of its co
 ## Contact
 
 Spencer Ingram
+spncrngrm1@gmail.com
